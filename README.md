@@ -2,6 +2,12 @@ ascii-art
 =========
 
 Project intended to create ASCII art using mathematical algorithms.
+
+# Usage
+
+    node index.js canvasHeight:10 canvasWidth:100 algo:random
+
+  
     
              _____.                    .___
     _______ |__\_ |__   ___________  __| _/____   ____
