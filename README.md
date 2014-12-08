@@ -3,10 +3,11 @@ ascii-art
 
 Project intended to create ASCII art using mathematical algorithms.
 
-# Usage
+## Usage
 
     node index.js canvasHeight:10 canvasWidth:100 algo:random
 
+## Thanks
   
     
              _____.                    .___
